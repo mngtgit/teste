@@ -9,3 +9,4 @@ feature f4
 feature f5
 feature v2
 feature v1
+feature b1
