@@ -11,3 +11,5 @@ feature v2
 feature v1
 feature b1
 feature f7
+feature f6
+prox release b1
